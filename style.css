@@ -1,0 +1,10 @@
+h1, h2 {
+  font-family: Lato;
+}
+
+.card {
+  display: flex;
+  flex-direction:column;
+  padding: 5px;
+  border: 1px solid black;
+}
